@@ -1,4 +1,4 @@
-# MY name is abhay
+# My Name is Abhay
 
 I'm learning how to use git
 
@@ -13,4 +13,4 @@ I know:
 1. OS
 1. CN
 1. C++
-1. REPL.IT
+1. REPL.IT(https://replit.com/@abhaayy)
