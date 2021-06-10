@@ -8,9 +8,8 @@ I'm passionate about Technology & Science
 
 I know:
 1. HTML
+1. REPL.IT(https://replit.com/@abhaayy)
 1. JAVASCRIPT
 1. C++
-1. OS
-1. CN
-1. C++
-1. REPL.IT(https://replit.com/@abhaayy)
+1. c
+1. Python
